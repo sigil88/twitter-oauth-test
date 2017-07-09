@@ -1,0 +1,8 @@
+{
+    "name": "women-who-code",
+    "description": "Practice task for working with Twitter API",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "abraham/twitteroauth": "^0.7.4"
+    }
+}
